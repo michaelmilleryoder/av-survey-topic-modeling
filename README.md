@@ -2,7 +2,7 @@
 Topic modeling results of an AV survey by BikePGH
 
 ## Packages
-You'll want to install the following Pythong packages:
+You'll want to install the following Python packages:
 * pandas
 * gensim
 * matplotlib
