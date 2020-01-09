@@ -1,5 +1,5 @@
 # av-survey-topic-modeling
-Topic modeling results of an survey on autonomous vehicles collected by the non-profit bike and pedestrian advocacy organization [BikePGH](https://www.bikepgh.org/) in 2017 and 2019.
+A tutorial on topic modeling survey data. Example data used are the results of an survey on autonomous vehicles collected by the non-profit bike and pedestrian advocacy organization [BikePGH](https://www.bikepgh.org/) in 2017 and 2019.
 
 ## Contents
 Jupyter Notebooks are included for both Python and R environments.
