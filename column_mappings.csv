@@ -1,0 +1,32 @@
+transformed_column_name,2017,2019
+age,,What is your age?
+av_disclose_performance,,"On City of Pittsburgh public streets, should AV companies be required to disclose information and data as to the limitations, capabilities, and real-world performance of their cars with the proper authorities?"
+av_reduce_injuries,Do you think that AVs have the potential to reduce injuries and fatalities?,What effect do you think that AVs will have on traffic injuries and fatalities?
+av_report_safety,,"On City of Pittsburgh public streets, should AV companies be required to report all safety-related incidents with the proper authorities, even if a police report isn’t required?"
+av_school_zone,"On public streets, do you think that a regulatory authority should prevent AVs from operating in an active school zone?","On City of Pittsburgh public streets, do you think that AVs should operate in “manual mode” while in an active school zone?"
+av_share_data,"On public streets, do you think that a regulatory authority should Require companies to share non-personal data with the proper authorities, planning agencies, etc? (AVs collect lots of useful data for city planners)","On City of Pittsburgh public streets, should AV companies be required to share some non-personal data (e.g. number of trips, pickup/drop off locations, number of miles driven) with the proper authorities (e.g. Department of Mobility, PennDOT, Public Safety)?"
+av_speed_limit,"On public streets, do you think that a regulatory authority should cap the speed limit in which AVs are allowed to operate?","On City of Pittsburgh public streets, should AV speeds be capped at 25mph when operating in “autonomous mode”?"
+av_two_drivers,,"On City of Pittsburgh public streets, should AVs have two full-time employees (pilot and co-pilot) at all times?"
+bikegph_member,,Are you currently an active member of BikePGH?
+bikepgh_position,What do you think BikePGH's position on AVs should be?,
+bikepgh_should_advocate,Is this an advocacy issue that BikePGH should dedicate resources to?,
+elaborate_bikepgh_position,Please elaborate on this.,
+end_date,End Date,End Date
+familiar_av_tech,How familiar are you with the technology behind autonomous vehicles?,How familiar are you with the technology behind autonomous vehicles?
+feel_safe_avs,"On a typical day, how safe do you feel using Pittsburgh's streets? with autonomous vehicles","On a typical day, how safe do you feel sharing the road with autonomous vehicles? (1 being very unsafe and 5 being very safe)"
+feel_safe_cars,"On a typical day, how safe do you feel using Pittsburgh's streets? with human-driven cars","On a typical day, how safe do you feel sharing the road with human-driven cars? (1 being very unsafe and 5 being very safe)"
+herzberg_death_change_opinion,,"In March of 2018, an AV struck and killed Elaine Herzberg, a pedestrian, in Tempe, AZ. As a pedestrian and/or bicyclist, how did this event and its outcome change your opinion about sharing the road with AVs?"
+interacted_av_biking,Have you interacted with an AV while riding your bicycle on the streets of Pittsburgh?,Have you shared the road with an Autonomous Vehicle (AV) while riding your bicycle on the streets of Pittsburgh?
+interacted_av_walking,Have you interacted with an AV while using sidewalks and crosswalks in Pittsburgh?,"Have you been near an AV while walking or using a mobility device (wheelchair, etc) in Pittsburgh?"
+interaction_details,"If so, what were the circumstances? What were your observations?","If you answered YES to either question, were there notable circumstances? What were your observations?"
+negative_av_interaction,,Please share any negative experiences that you have had with an AV.
+other_av_regulations,Any other suggested regulations?,Any other suggested laws or regulations?
+other_comments,Anything else you'd like to share regarding AVs?,Anything else you'd like to share regarding Autonomous Vehicles?
+own_car,,Do you (or someone in your household) own an automobile?
+own_smartphone,,Do you own a smartphone?
+paying_attention_av_news,To what extent have you been paying attention to the subject of AVs in the news?,To what extent have you been paying attention to the subject of AVs in the news?
+positive_av_interaction,,Please share any positive experiences that you have had with an AV.
+regulate_av_testing,"On public streets, do you think that a regulatory authority should come up with regulations regarding how AVs are tested?",
+start_date,Start Date,Start Date
+thoughts_pgh_av_testing,How do you feel right now about the use of Pittsburgh's public streets as a proving ground for AVs?,What do you think about the use of Pittsburgh's public streets as a proving ground for Autonomous Vehicles?
+zipcode,Zipcode,Zip Code
